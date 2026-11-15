@@ -10,7 +10,7 @@ while testing this program and getting some crazy errors, i accidentally found s
 i did not like how this mouse didn't have static light and all, but apparently, in the program, some cryptic things made these lights freeze on whatever color it was at right before that.
 so after fixing all the things, i added an option that makes the lights static (you can use brains to get a lighting you like).
 
-the program needs to be running for the static remain. and it ONLY works in wired mode.
+the program needs to be running for the static to remain, and it ONLY works in wired mode.
 
 yeah, thats all.
 
